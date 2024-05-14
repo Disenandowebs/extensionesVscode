@@ -42,10 +42,16 @@ Funciones:
 - Depuración en grupo, establece puntos de interrupción y navega por el código juntos.
 - Servidores y terminales compartidos, visualiza aplicaciones web y ejecuta comandos sin exponer puertos a Internet.
 
+## 4. Better Comments
 
+Es una extensión que mejora la legibilidad y comprensión de los comentarios en tu código. Con esta extensión, podrás anotar tus comentarios de manera más humana y estructurada.
 
+Funciones:
 
-
+- Categorización de anotaciones, puedes clasificar tus comentarios en diferentes categorías como ser alertas para resaltar información importante, consultas para hacer preguntas o señalar áreas de duda, todos para marcar tareas pendientes, destacados para resaltar partes relevantes del código. Incluso se puede aplicar estilos a partes de código comentado para indicar que no deberían estar allí.
+- Configuración personalizada, se puede ajustar los estilos y colores de las anotaciones según tus preferencias.
+- Define tus propias etiquetas y colores en la configuración.
+- Compatibilidad con diferentes lenguajes, funciona con una amplia variedad de lenguajes de programación y tipos de archivos, desde JavaScript hasta Markdown y más.
 
 
 
