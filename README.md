@@ -50,6 +50,8 @@ Funciones:
 
 ## 4. Better Comments
 
+![Better Comments](./src/img/bettercmnts.png)
+
 Es una extensión que mejora la legibilidad y comprensión de los comentarios en tu código. Con esta extensión, podrás anotar tus comentarios de manera más humana y estructurada.
 
 Funciones:
