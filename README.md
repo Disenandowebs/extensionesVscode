@@ -1,7 +1,9 @@
 # :top: Las mejores Extensiones de Vscode
 Una lista interesante de extensiones muy útiles de Visual Studio Code.
 
-## 1. Prettier
+## EXTENSIONES DE USO GENERAL
+
+### 1. Prettier
 
 ![Prettier](./src/img/prettier.png)
 
@@ -14,7 +16,7 @@ Funciones:
 - Da un estilo de código coherente en los proyectos.
 - Compatible con otras opciones de formato y puede activarse al guardar o mediante atajos de teclado.
 
-## 2. Remote SSH
+### 2. Remote SSH
 
 ![RemoteSSH](./src/img/remotessh.png)
 
@@ -28,7 +30,7 @@ Funciones:
 - Puedes depurar aplicaciones que se ejecuten en entornos remotos.
 - Tiene integración perfecta con las funciones completas de edición y depuración de **VS Code**.
 
-## 3. Live Share
+### 3. Live Share
 
 ![Live Share](./src/img/liveshare.png)
 
@@ -48,7 +50,7 @@ Funciones:
 - Depuración en grupo, establece puntos de interrupción y navega por el código juntos.
 - Servidores y terminales compartidos, visualiza aplicaciones web y ejecuta comandos sin exponer puertos a Internet.
 
-## 4. Better Comments
+### 4. Better Comments
 
 ![Better Comments](./src/img/bettercmnts.png)
 
