@@ -1,5 +1,15 @@
 # :top: Las mejores Extensiones de Vscode
-Una lista interesante de extensiones muy útiles de Visual Studio Code.
+
+Visual Studio Code (VS Code) es un editor de código fuente desarrollado por Microsoft. Es software libre y multiplataforma, disponible para Windows, GNU/Linux y macOS.
+
+A continuación, te presento algunas de sus características clave:
+- Multiplataforma: VS Code está disponible en diferentes sistemas operativos, lo que facilita su uso en cualquier entorno de desarrollo.
+- IntelliSense: Proporciona autocompletado y resaltado de sintaxis, lo que agiliza la escritura de código.
+- Depuración integrada: VS Code ofrece herramientas para depurar tu código directamente desde el editor.
+- Control de versiones con Git: Integra funcionalidades para trabajar con repositorios Git.
+- Extensiones: VS Code es potente gracias a sus extensiones. Puedes personalizarlo y agregar funcionalidades adicionales de forma modular. Por ejemplo, puedes programar en diferentes lenguajes, cambiar temas, y conectar con otros servicios.  
+
+Acá te dejo una lista interesante de extensiones muy útiles de Visual Studio Code.
 
 ## EXTENSIONES DE USO GENERAL
 
