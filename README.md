@@ -3,6 +3,8 @@ Una lista interesante de extensiones muy útiles de Visual Studio Code.
 
 ## 1. Prettier
 
+![Prettier](./src/img/prettier.png)
+
 Prettier es una extensión ampliamente adoptada que genera un estilo de código coherente en proyectos de programación principalmente, se utiliza en una amplia variedad de lenguajes de programación que facilita el formateo consistente del código en los proyectos de manera automática mejorando la legibilidad y reduciendo los conflictos relacionados con el estilo.
 
 Funciones:
