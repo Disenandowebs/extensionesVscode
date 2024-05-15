@@ -30,6 +30,8 @@ Funciones:
 
 ## 3. Live Share
 
+![Live Share](./src/img/liveshare.png)
+
 Live Share es una herramienta de colaboración de código en tiempo real que te permite trabajar conjuntamente con otros desarrolladores en la misma base de código sin necesidad de sincronizar o configurar las mismas herramientas de desarrollo o entorno.
 
 Funciones:
