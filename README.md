@@ -16,6 +16,8 @@ Funciones:
 
 ## 2. Remote SSH
 
+![RemoteSSH](./src/img/remotessh.png)
+
 Esta extensión te brinda la posibilidad de trabajar en servidores remotos o máquinas virtuales mediante el protocolo seguro **SSH**. Esta extensión ofrece una experiencia de desarrollo fluida al permitirte editar archivos, ejecutar comandos y depurar aplicaciones directamente desde tu instancia local hacia entornos remotos. 🚀
 
 Funciones:
