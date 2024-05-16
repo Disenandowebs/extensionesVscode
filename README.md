@@ -86,7 +86,16 @@ Funciones:
 - Muestra Números de Línea, las capturas pueden incluir números de línea para mayor contexto.
 - Configuración Personalizable, CodeSnap es altamente configurable. Puedes ajustar el color de fondo, las sombras, los bordes redondeados y más.
 
+### 6. Code Runner
 
+Code Runner es una extensión gratuita para Visual Studio Code que te permite ejecutar rápidamente fragmentos de código o archivos completos en varios lenguajes de programación directamente desde el editor. Esta herramienta elimina la necesidad de cambiar entre el editor de código y un terminal independiente, lo que te permite probar y ejecutar código al instante.
+
+Funciones:
+
+- Ejecución Rápida, puedes ejecutar fragmentos de código sin salir de VS Code.
+- Soporte Multilenguaje, admite varios lenguajes de programación, como JavaScript, Python, C++, Java, entre otros.
+- Personalización de Atajos de Teclado, puedes configurar tus propios atajos para ejecutar el código.
+- Salida en Consola, muestra la salida del código en la consola integrada de VS Code.
 
 
 
