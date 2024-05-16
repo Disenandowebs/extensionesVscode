@@ -75,6 +75,8 @@ Funciones:
 
 ### 5. CodeSnap
 
+![CodeSnap](./src/img/codesnap.png)
+
 CodeSnap es una extensión gratuita para Visual Studio Code que te permite capturar hermosas imágenes de tu código. Con esta herramienta, puedes tomar capturas de pantalla de tu código y personalizarlas según tus preferencias.
 
 Funciones:
