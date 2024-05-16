@@ -88,6 +88,8 @@ Funciones:
 
 ### 6. Code Runner
 
+![Code Runner](./src/img/coderunner.png)
+
 Code Runner es una extensión gratuita para Visual Studio Code que te permite ejecutar rápidamente fragmentos de código o archivos completos en varios lenguajes de programación directamente desde el editor. Esta herramienta elimina la necesidad de cambiar entre el editor de código y un terminal independiente, lo que te permite probar y ejecutar código al instante.
 
 Funciones:
