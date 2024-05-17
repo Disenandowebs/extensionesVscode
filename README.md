@@ -99,6 +99,13 @@ Funciones:
 - Personalización de Atajos de Teclado, puedes configurar tus propios atajos para ejecutar el código.
 - Salida en Consola, muestra la salida del código en la consola integrada de VS Code.
 
+### 7. Path Intellisense
+
+Path intellisense simplifica la entrada de rutas de archivos ofreciendo autocompletado inteligente para las rutas de archivos en tu código. Elimina los errores tipográficos y garantiza la precisión al hacer referencia a archivos o módulos dentro de tu proyecto.
+
+Funciones:
+Admite rutas relativas y absolutas.
+Funciona perfectamente con varios lenguajes de programación y frameworks.
 
 
 
