@@ -110,21 +110,17 @@ Funciones:
 - Elimina Errores Tipográficos, al proporcionar autocompletado, evita errores comunes al escribir manualmente las rutas. Esto garantiza que las referencias a archivos o módulos dentro de tu proyecto sean precisas.
 Admite rutas relativas y absolutas.
 
-### 8. vscode-icons
+### 8. Vscode-icons
 
 ![Vscode Icons](./src/img/vscodeicons.png)
 
 Vscode-icons es una extensión para Visual Studio Code que mejora la experiencia visual al proporcionar iconos personalizados para los archivos y directorios en el explorador de archivos.
 
 Características:
-- Amplia Variedad de Iconos,
-vscode-icons incluye una amplia variedad de iconos para diferentes tipos de archivos y extensiones. Esto hace que sea más fácil identificar rápidamente los archivos en tu proyecto.
-Personalización de Iconos:
-Puedes elegir el icono que prefieras para una extensión de archivo específica. Por ejemplo, puedes asignar un icono personalizado a los archivos .js, .html, .css, etc.
-Mejora la Legibilidad:
-Al proporcionar iconos visuales, vscode-icons facilita la identificación de archivos y directorios en el explorador de archivos. Esto es especialmente útil cuando trabajas en proyectos grandes con muchos archivos.
-Integración Sencilla:
-Una vez instalada, la extensión se integra automáticamente con Visual Studio Code. No necesitas realizar ninguna configuración adicional.
+- Amplia Variedad de Iconos, vscode-icons incluye una amplia variedad de iconos para diferentes tipos de archivos y extensiones. Esto hace que sea más fácil identificar rápidamente los archivos en tu proyecto.
+- Personalización de Iconos, puedes elegir el icono que prefieras para una extensión de archivo específica. Por ejemplo, puedes asignar un icono personalizado a los archivos .js, .html, .css, etc.
+- Mejora la Legibilidad, al proporcionar iconos visuales, vscode-icons facilita la identificación de archivos y directorios en el explorador de archivos. Esto es especialmente útil cuando trabajas en proyectos grandes con muchos archivos.
+- Integración Sencilla, una vez instalada, la extensión se integra automáticamente con Visual Studio Code. No necesitas realizar ninguna configuración adicional.
 
 
 
