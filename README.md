@@ -123,15 +123,13 @@ Características:
 - Integración Sencilla, una vez instalada, la extensión se integra automáticamente con Visual Studio Code. No necesitas realizar ninguna configuración adicional.
 
 ### 9. Night Owl
-Night owl es un tema visualmente impactante para VS Code que proporciona una paleta de colores relajante y agradable a la vista para tu editor de código.
 
-Night-owl
-Extensión Night Owl
-Funciones:
-Tema oscuro que reduce la fatiga visual, especialmente durante largas sesiones de programación.
-Ofrece un resaltado de sintaxis vibrante y bien definido para una amplia gama de lenguajes de programación.
-Te permite personalizar el tema seleccionando entre una gama de colores de acento.
-Proporciona un alto contraste y un texto legible.
+Night Owl es una extensión para Visual Studio Code diseñada para los amantes de la programación nocturna. Night Owl es un tema oscuro para Visual Studio Code, especialmente ajustado para aquellos que disfrutan programando hasta altas horas de la noche. Los colores se han elegido cuidadosamente para garantizar una buena legibilidad tanto para personas con daltonismo como en condiciones de poca luz. Además, a partir de la versión 1.0.0, también se incluye un tema llamado “Light Owl” para su uso durante el día. Este tema está equilibrado en colores a partir de la versión oscura para facilitar la visualización en la luz del día.
+
+Características:
+- Contraste significativo: Los colores se han seleccionado para ofrecer un contraste óptimo tanto para la comprensión de lectura como para un toque visual agradable.
+- Accesibilidad: Se ha tenido en cuenta la accesibilidad para personas con daltonismo.
+- Tema diurno: La versión “Light Owl” permite una experiencia de codificación cómoda durante el día.
 
 
 https://kinsta.com/es/blog/extensiones-vscode/
