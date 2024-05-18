@@ -101,11 +101,15 @@ Funciones:
 
 ### 7. Path Intellisense
 
-Path intellisense simplifica la entrada de rutas de archivos ofreciendo autocompletado inteligente para las rutas de archivos en tu código. Elimina los errores tipográficos y garantiza la precisión al hacer referencia a archivos o módulos dentro de tu proyecto.
+![Path Intellisense](./src/img/pathintellisense.png)
+
+Path Intellisense es una extensión para Visual Studio Code que simplifica la entrada de rutas de archivos ofreciendo autocompletado inteligente para las rutas de archivos en tu código. Esta herramienta elimina errores tipográficos y garantiza la precisión al hacer referencia a archivos o módulos dentro de tu proyecto. Puedes utilizar rutas relativas y absolutas con facilidad.
 
 Funciones:
+- Admite Rutas Relativas y Absolutas, Path Intellisense te permite escribir rutas de archivos de manera más eficiente. Puedes usar tanto rutas relativas (por ejemplo, ./archivo.js) como rutas absolutas (por ejemplo, /ruta/completa/al/archivo.js).
+- Elimina Errores Tipográficos, al proporcionar autocompletado, evita errores comunes al escribir manualmente las rutas. Esto garantiza que las referencias a archivos o módulos dentro de tu proyecto sean precisas.
 Admite rutas relativas y absolutas.
-Funciona perfectamente con varios lenguajes de programación y frameworks.
+
 
 
 
