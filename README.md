@@ -122,6 +122,16 @@ Características:
 - Mejora la Legibilidad, al proporcionar iconos visuales, vscode-icons facilita la identificación de archivos y directorios en el explorador de archivos. Esto es especialmente útil cuando trabajas en proyectos grandes con muchos archivos.
 - Integración Sencilla, una vez instalada, la extensión se integra automáticamente con Visual Studio Code. No necesitas realizar ninguna configuración adicional.
 
+### 9. Night Owl
+Night owl es un tema visualmente impactante para VS Code que proporciona una paleta de colores relajante y agradable a la vista para tu editor de código.
+
+Night-owl
+Extensión Night Owl
+Funciones:
+Tema oscuro que reduce la fatiga visual, especialmente durante largas sesiones de programación.
+Ofrece un resaltado de sintaxis vibrante y bien definido para una amplia gama de lenguajes de programación.
+Te permite personalizar el tema seleccionando entre una gama de colores de acento.
+Proporciona un alto contraste y un texto legible.
 
 
 https://kinsta.com/es/blog/extensiones-vscode/
