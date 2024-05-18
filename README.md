@@ -124,6 +124,8 @@ Características:
 
 ### 9. Night Owl
 
+![Night Owl](./src/img/nightowl.png)
+
 Night Owl es una extensión para Visual Studio Code diseñada para los amantes de la programación nocturna. Night Owl es un tema oscuro para Visual Studio Code, especialmente ajustado para aquellos que disfrutan programando hasta altas horas de la noche. Los colores se han elegido cuidadosamente para garantizar una buena legibilidad tanto para personas con daltonismo como en condiciones de poca luz. Además, a partir de la versión 1.0.0, también se incluye un tema llamado “Light Owl” para su uso durante el día. Este tema está equilibrado en colores a partir de la versión oscura para facilitar la visualización en la luz del día.
 
 Características:
