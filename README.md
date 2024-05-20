@@ -32,7 +32,7 @@ Características:
 
 Esta extensión te brinda la posibilidad de trabajar en servidores remotos o máquinas virtuales mediante el protocolo seguro **SSH**. Esta extensión ofrece una experiencia de desarrollo fluida al permitirte editar archivos, ejecutar comandos y depurar aplicaciones directamente desde tu instancia local hacia entornos remotos. 🚀
 
-Funciones:
+Características:
 
 - Permite conectarte a servidores remotos o máquinas virtuales desde tu equipo local.
 - Puedes editar archivos en sistemas remotos como si estuvieran en tu propia equipo.
@@ -46,7 +46,7 @@ Funciones:
 
 Live Share es una herramienta de colaboración de código en tiempo real que te permite trabajar conjuntamente con otros desarrolladores en la misma base de código sin necesidad de sincronizar o configurar las mismas herramientas de desarrollo o entorno.
 
-Funciones:
+Características:
 
 - Colaboración Instantánea, puedes compartir tu proyecto con compañeros de equipo desde la comodidad de tus propias herramientas.
 - No es necesario clonar un repositorio ni configurar el entorno para colaborar.
