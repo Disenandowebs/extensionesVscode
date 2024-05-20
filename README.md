@@ -133,5 +133,10 @@ Características:
 - Accesibilidad: Se ha tenido en cuenta la accesibilidad para personas con daltonismo.
 - Tema diurno: La versión “Light Owl” permite una experiencia de codificación cómoda durante el día.
 
+## EXTENSIONES PARA DESARROLLO WEB
+
+El desarrollo web es un campo en constante evolución, y los desarrolladores buscan constantemente herramientas y tecnologías que puedan mejorar su productividad. Aquí tienes algunas extensiones que te ayudarán a aumentar tu productividad:
+
+
 
 https://kinsta.com/es/blog/extensiones-vscode/
