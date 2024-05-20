@@ -92,7 +92,7 @@ Características:
 
 Code Runner es una extensión gratuita para Visual Studio Code que te permite ejecutar rápidamente fragmentos de código o archivos completos en varios lenguajes de programación directamente desde el editor. Esta herramienta elimina la necesidad de cambiar entre el editor de código y un terminal independiente, lo que te permite probar y ejecutar código al instante.
 
-Funciones:
+Características:
 
 - Ejecución Rápida, puedes ejecutar fragmentos de código sin salir de VS Code.
 - Soporte Multilenguaje, admite varios lenguajes de programación, como JavaScript, Python, C++, Java, entre otros.
@@ -105,7 +105,8 @@ Funciones:
 
 Path Intellisense es una extensión para Visual Studio Code que simplifica la entrada de rutas de archivos ofreciendo autocompletado inteligente para las rutas de archivos en tu código. Esta herramienta elimina errores tipográficos y garantiza la precisión al hacer referencia a archivos o módulos dentro de tu proyecto. Puedes utilizar rutas relativas y absolutas con facilidad.
 
-Funciones:
+Características:
+
 - Admite Rutas Relativas y Absolutas, Path Intellisense te permite escribir rutas de archivos de manera más eficiente. Puedes usar tanto rutas relativas (por ejemplo, ./archivo.js) como rutas absolutas (por ejemplo, /ruta/completa/al/archivo.js).
 - Elimina Errores Tipográficos, al proporcionar autocompletado, evita errores comunes al escribir manualmente las rutas. Esto garantiza que las referencias a archivos o módulos dentro de tu proyecto sean precisas.
 Admite rutas relativas y absolutas.
@@ -117,6 +118,7 @@ Admite rutas relativas y absolutas.
 Vscode-icons es una extensión para Visual Studio Code que mejora la experiencia visual al proporcionar iconos personalizados para los archivos y directorios en el explorador de archivos.
 
 Características:
+
 - Amplia Variedad de Iconos, vscode-icons incluye una amplia variedad de iconos para diferentes tipos de archivos y extensiones. Esto hace que sea más fácil identificar rápidamente los archivos en tu proyecto.
 - Personalización de Iconos, puedes elegir el icono que prefieras para una extensión de archivo específica. Por ejemplo, puedes asignar un icono personalizado a los archivos .js, .html, .css, etc.
 - Mejora la Legibilidad, al proporcionar iconos visuales, vscode-icons facilita la identificación de archivos y directorios en el explorador de archivos. Esto es especialmente útil cuando trabajas en proyectos grandes con muchos archivos.
@@ -129,14 +131,14 @@ Características:
 Night Owl es una extensión para Visual Studio Code diseñada para los amantes de la programación nocturna. Night Owl es un tema oscuro para Visual Studio Code, especialmente ajustado para aquellos que disfrutan programando hasta altas horas de la noche. Los colores se han elegido cuidadosamente para garantizar una buena legibilidad tanto para personas con daltonismo como en condiciones de poca luz. Además, a partir de la versión 1.0.0, también se incluye un tema llamado “Light Owl” para su uso durante el día. Este tema está equilibrado en colores a partir de la versión oscura para facilitar la visualización en la luz del día.
 
 Características:
+
 - Contraste significativo: Los colores se han seleccionado para ofrecer un contraste óptimo tanto para la comprensión de lectura como para un toque visual agradable.
 - Accesibilidad: Se ha tenido en cuenta la accesibilidad para personas con daltonismo.
 - Tema diurno: La versión “Light Owl” permite una experiencia de codificación cómoda durante el día.
 
 ## EXTENSIONES PARA DESARROLLO WEB
 
-El desarrollo web es un campo en constante evolución, y los desarrolladores buscan constantemente herramientas y tecnologías que puedan mejorar su productividad. Aquí tienes algunas extensiones que te ayudarán a aumentar tu productividad:
-
+El desarrollo web es un campo dinámico y en constante evolución. Los desarrolladores se esfuerzan por mantenerse al día con las últimas tendencias y herramientas que les permitan trabajar de manera más eficiente y crear aplicaciones web de alta calidad. A continuación, te presento algunas extensiones imprescindibles para Visual Studio Code (VSCode) que te ayudarán a aumentar tu productividad:
 
 
 https://kinsta.com/es/blog/extensiones-vscode/
