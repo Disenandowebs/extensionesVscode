@@ -142,7 +142,7 @@ El desarrollo web es un campo dinámico y en constante evolución. Los desarroll
 
 ### 1.Live Server
 
-ª[Live Server](./src/img/liveserver.png)
+![Live Server](./src/img/liveserver.png)
 
 Live Server es una extensión que te permite crear un servidor de desarrollo local directamente desde VS Code. Su principal función es previsualizar tu sitio web en tiempo real mientras trabajas en él. Cuando activas Live Server, crea un servidor local (localhost) en tu máquina. Luego, puedes abrir tu proyecto web en el navegador y ver los cambios reflejados automáticamente a medida que editas el código. Esto es especialmente útil para HTML, CSS y JavaScript, ya que te ahorra la molestia de tener que recargar manualmente la página cada vez que haces modificaciones.
 
