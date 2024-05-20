@@ -19,7 +19,7 @@ Acá te dejo una lista interesante de extensiones muy útiles de Visual Studio C
 
 Prettier es una extensión ampliamente adoptada que genera un estilo de código coherente en proyectos de programación principalmente, se utiliza en una amplia variedad de lenguajes de programación que facilita el formateo consistente del código en los proyectos de manera automática mejorando la legibilidad y reduciendo los conflictos relacionados con el estilo.
 
-Funciones:
+Características:
 
 - Ideal para lenguajes de programación como JavaScript, TypeScript, CSS, HTML y otros.
 - Formatea automáticamente el código en base a reglas predefinidas.
