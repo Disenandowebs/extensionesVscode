@@ -140,15 +140,19 @@ Características:
 
 El desarrollo web es un campo dinámico y en constante evolución. Los desarrolladores se esfuerzan por mantenerse al día con las últimas tendencias y herramientas que les permitan trabajar de manera más eficiente y crear aplicaciones web de alta calidad. A continuación, te presento algunas extensiones imprescindibles para Visual Studio Code (VSCode) que te ayudarán a aumentar tu productividad:
 
-1.Live Server
-Live Server es una fantástica extensión que te permite crear un servidor de desarrollo local con recarga en tiempo real. Te permite previsualizar tus cambios en HTML, CSS y JavaScript en tiempo real, ahorrándote la molestia de refrescar manualmente el navegador.
+### 1.Live Server
 
-Live-server
-Extensión Live server
-Funciones:
-Lanza un servidor de desarrollo local con recarga en tiempo real.
-Actualización automática del navegador con los cambios en los archivos.
-Soporte para HTML, CSS, JavaScript y otros archivos de desarrollo web.
-Configuración personalizable del servidor para el número de puerto, el directorio root, etc.
+Live Server es una extensión que te permite crear un servidor de desarrollo local directamente desde VS Code. Su principal función es previsualizar tu sitio web en tiempo real mientras trabajas en él. Cuando activas Live Server, crea un servidor local (localhost) en tu máquina. Luego, puedes abrir tu proyecto web en el navegador y ver los cambios reflejados automáticamente a medida que editas el código. Esto es especialmente útil para HTML, CSS y JavaScript, ya que te ahorra la molestia de tener que recargar manualmente la página cada vez que haces modificaciones.
+
+Características clave:
+- Recarga en tiempo real, Live Server actualiza la previsualización en el navegador automáticamente cuando guardas tus cambios en el editor.
+- Facilidad de uso, solo necesitas hacer clic en un botón para iniciar el servidor local y abrir la previsualización en tu navegador favorito.
+- Ahorro de tiempo, evita la repetitiva tarea de recargar manualmente la página para ver los cambios.
+- Compatibilidad, funciona con proyectos web que requieren un servidor local, como aplicaciones web, sitios estáticos y más.
+
+
+
+
+
 
 https://kinsta.com/es/blog/extensiones-vscode/
