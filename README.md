@@ -140,5 +140,15 @@ Características:
 
 El desarrollo web es un campo dinámico y en constante evolución. Los desarrolladores se esfuerzan por mantenerse al día con las últimas tendencias y herramientas que les permitan trabajar de manera más eficiente y crear aplicaciones web de alta calidad. A continuación, te presento algunas extensiones imprescindibles para Visual Studio Code (VSCode) que te ayudarán a aumentar tu productividad:
 
+1.Live Server
+Live Server es una fantástica extensión que te permite crear un servidor de desarrollo local con recarga en tiempo real. Te permite previsualizar tus cambios en HTML, CSS y JavaScript en tiempo real, ahorrándote la molestia de refrescar manualmente el navegador.
+
+Live-server
+Extensión Live server
+Funciones:
+Lanza un servidor de desarrollo local con recarga en tiempo real.
+Actualización automática del navegador con los cambios en los archivos.
+Soporte para HTML, CSS, JavaScript y otros archivos de desarrollo web.
+Configuración personalizable del servidor para el número de puerto, el directorio root, etc.
 
 https://kinsta.com/es/blog/extensiones-vscode/
