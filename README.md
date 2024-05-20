@@ -66,7 +66,7 @@ Características:
 
 Es una extensión que mejora la legibilidad y comprensión de los comentarios en tu código. Con esta extensión, podrás anotar tus comentarios de manera más humana y estructurada.
 
-Funciones:
+Características:
 
 - Categorización de anotaciones, puedes clasificar tus comentarios en diferentes categorías como ser alertas para resaltar información importante, consultas para hacer preguntas o señalar áreas de duda, todos para marcar tareas pendientes, destacados para resaltar partes relevantes del código. Incluso se puede aplicar estilos a partes de código comentado para indicar que no deberían estar allí.
 - Configuración personalizada, se puede ajustar los estilos y colores de las anotaciones según tus preferencias.
@@ -79,7 +79,7 @@ Funciones:
 
 CodeSnap es una extensión gratuita para Visual Studio Code que te permite capturar hermosas imágenes de tu código. Con esta herramienta, puedes tomar capturas de pantalla de tu código y personalizarlas según tus preferencias.
 
-Funciones:
+Características:
 
 - Captura Rápida, puedes guardar rápidamente capturas de pantalla de tu código.
 - Copia al Portapapeles, además de guardarlas en tu disco, también puedes copiar las imágenes al portapapeles.
