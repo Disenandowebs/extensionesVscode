@@ -154,6 +154,8 @@ Características:
 
 ### 2. Auto Rename Tag
 
+![Auto Rename Tag](./src/img/autorenametag.png)
+
 La extensión Auto Rename Tag es una herramienta valiosa para los desarrolladores web. Su función principal es renombrar automáticamente las etiquetas HTML, XML, JSX y otras etiquetas compatibles cuando modificas la etiqueta de apertura o cierre correspondiente. Esto garantiza que las etiquetas emparejadas se mantengan sincronizadas, promoviendo la coherencia del código y previniendo errores.
 
 Características:
