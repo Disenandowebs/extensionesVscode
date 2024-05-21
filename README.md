@@ -157,7 +157,7 @@ Características:
 La extensión Auto Rename Tag es una herramienta valiosa para los desarrolladores web. Su función principal es renombrar automáticamente las etiquetas HTML, XML, JSX y otras etiquetas compatibles cuando modificas la etiqueta de apertura o cierre correspondiente. Esto garantiza que las etiquetas emparejadas se mantengan sincronizadas, promoviendo la coherencia del código y previniendo errores.
 
 Características:
-- Renombrado automático de etiquetas, cuando cambias el nombre de una etiqueta de apertura o cierre, la extensión actualiza automáticamente la etiqueta emparejada. Por ejemplo, si renombras <div> a <section>, también cambiará automáticamente </div> a </section>.
+- Renombrado automático de etiquetas, cuando cambias el nombre de una etiqueta de apertura o cierre, la extensión actualiza automáticamente la etiqueta emparejada. Por ejemplo, si renombras `<div>` a `<section>`, también cambiará automáticamente `</div>` a `</section>`.
 - Ahorro de tiempo y prevención de errores, al evitar errores manuales al renombrar etiquetas, te permite concentrarte en la lógica de tu código en lugar de preocuparte por la coherencia de las etiquetas.
 - Compatibilidad con varios lenguajes de marcado, funciona con etiquetas HTML, XML, JSX y otras etiquetas reconocidas por VS Code.
 - Integración con opciones de formato de VS Code, puedes activar el renombrado automático al guardar el archivo o mediante atajos de teclado.
