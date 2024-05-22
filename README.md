@@ -179,5 +179,18 @@ Características:
 - Comandos disponibles: Svg: Open Preview: Abre la vista previa en la columna activa. Svg: Open Preview to the Side: Abre la vista previa en la columna lateral. Svg: Show Source: Abre el archivo fuente de la vista previa activa.
 - Atajos de teclado: Ctrl+Shift+V: Abre la vista previa. Ctrl+K V: Abre la vista previa en la columna lateral.
 
+### 4. HTML CSS Support
 
+![HTML CSS Support](./src/img/htmlcsssp.png)
+
+La extensión HTML CSS Support para Visual Studio Code facilita la escritura de código HTML y CSS al proporcionar autocompletado inteligente para clases e IDs.
+
+Características:
+
+- Completado de atributos: Proporciona autocompletado para los atributos id y class en archivos HTML.
+- Estilos definidos en el archivo: Admite autocompletado basado en los estilos definidos en el propio archivo.
+- Compatibilidad con hojas de estilo locales y remotas: Puedes especificar hojas de estilo locales o remotas y obtener autocompletado en función de ellas.
+- Soporte para múltiples lenguajes: Puede utilizarse con cualquier lenguaje donde tenga sentido, como TypeScript, JavaScript, PHP, Razor, Jade, entre otros.
+- Ir a la definición: Permite navegar a la definición de selectores CSS.
+- Validación de atributos de clase: Valida los atributos de clase según sea necesario.
 
