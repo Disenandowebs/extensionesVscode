@@ -147,6 +147,7 @@ El desarrollo web es un campo dinámico y en constante evolución. Los desarroll
 Live Server es una extensión que te permite crear un servidor de desarrollo local directamente desde VS Code. Su principal función es previsualizar tu sitio web en tiempo real mientras trabajas en él. Cuando activas Live Server, crea un servidor local (localhost) en tu máquina. Luego, puedes abrir tu proyecto web en el navegador y ver los cambios reflejados automáticamente a medida que editas el código. Esto es especialmente útil para HTML, CSS y JavaScript, ya que te ahorra la molestia de tener que recargar manualmente la página cada vez que haces modificaciones.
 
 Características:
+
 - Recarga en tiempo real, Live Server actualiza la previsualización en el navegador automáticamente cuando guardas tus cambios en el editor.
 - Facilidad de uso, solo necesitas hacer clic en un botón para iniciar el servidor local y abrir la previsualización en tu navegador favorito.
 - Ahorro de tiempo, evita la repetitiva tarea de recargar manualmente la página para ver los cambios.
@@ -159,11 +160,24 @@ Características:
 La extensión Auto Rename Tag es una herramienta valiosa para los desarrolladores web. Su función principal es renombrar automáticamente las etiquetas HTML, XML, JSX y otras etiquetas compatibles cuando modificas la etiqueta de apertura o cierre correspondiente. Esto garantiza que las etiquetas emparejadas se mantengan sincronizadas, promoviendo la coherencia del código y previniendo errores.
 
 Características:
+
 - Renombrado automático de etiquetas, cuando cambias el nombre de una etiqueta de apertura o cierre, la extensión actualiza automáticamente la etiqueta emparejada. Por ejemplo, si renombras `<div>` a `<section>`, también cambiará automáticamente `</div>` a `</section>`.
 - Ahorro de tiempo y prevención de errores, al evitar errores manuales al renombrar etiquetas, te permite concentrarte en la lógica de tu código en lugar de preocuparte por la coherencia de las etiquetas.
 - Compatibilidad con varios lenguajes de marcado, funciona con etiquetas HTML, XML, JSX y otras etiquetas reconocidas por VS Code.
 - Integración con opciones de formato de VS Code, puedes activar el renombrado automático al guardar el archivo o mediante atajos de teclado.
 
+### 3. SVG Preview
+
+![SVG Preview](./src/img/svgpreview.png)
+
+La extensión SVG Previewer para Visual Studio Code te permite ver una vista previa de archivos SVG en el panel lateral.
+
+Características:
+
+- En lugar de ver el código fuente, esta extensión muestra una vista previa del archivo SVG.
+- Para configurarla: Abre cualquier imagen SVG. Ejecuta el comando “View: Reopen Editor With…” desde la paleta de comandos. Selecciona “Image Viewer” y configúralo como predeterminado.
+- Comandos disponibles: Svg: Open Preview: Abre la vista previa en la columna activa. Svg: Open Preview to the Side: Abre la vista previa en la columna lateral. Svg: Show Source: Abre el archivo fuente de la vista previa activa.
+- Atajos de teclado: Ctrl+Shift+V: Abre la vista previa. Ctrl+K V: Abre la vista previa en la columna lateral.
 
 
-https://kinsta.com/es/blog/extensiones-vscode/
+
