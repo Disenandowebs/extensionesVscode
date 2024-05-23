@@ -194,3 +194,15 @@ Características:
 - Ir a la definición: Permite navegar a la definición de selectores CSS.
 - Validación de atributos de clase: Valida los atributos de clase según sea necesario.
 
+### 5. IntelliSense for CSS class names
+
+La extensión 'IntelliSense for CSS class names' de Visual Studio Code es una herramienta muy útil para desarrolladores web que trabajan con HTML, CSS y frameworks de CSS como Bootstrap, Foundation, Bulma, Tailwind CSS y otros. Esta extensión proporciona autocompletado inteligente para los nombres de clases CSS que se utilizan en los archivos HTML. Al comenzar a escribir el nombre de una clase CSS, la extensión sugiere automáticamente los nombres de clase relevantes de los archivos CSS vinculados al proyecto.
+
+Características:
+
+- Autocompletado inteligente: A medida que escribes, la extensión analiza los archivos CSS y sugiere los nombres de clases disponibles, lo que ahorra tiempo y reduce errores de escritura.
+- Soporte multi-framework: Funciona con la mayoría de los frameworks CSS populares como Bootstrap, Foundation, Bulma, Tailwind CSS y más.
+- Definición de estilos: Al hacer clic en una clase CSS en el archivo HTML, puedes ver la definición de estilos correspondiente en el archivo CSS.
+- Escaneo de archivos: La extensión escanea automáticamente todos los archivos CSS vinculados al proyecto para proporcionar sugerencias precisas.
+- Configuración personalizable: Puedes personalizar la extensión ajustando la configuración, como excluir ciertos archivos o directorios del escaneo.
+
