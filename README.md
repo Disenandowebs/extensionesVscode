@@ -212,3 +212,13 @@ Características:
 
 ![CSS Peek](./src/img/csspeek.png)
 
+Esta extensión es una excelente que facilita la navegación y el trabajo con archivos CSS en proyectos web. Mejora el desarrollo CSS permitiéndote visualizar los estilos CSS asociados directamente desde el código HTML o JavaScript. Con sólo pasar el ratón por encima de una clase o ID CSS, CSS Peek muestra los estilos correspondientes en una ventana, eliminando la necesidad de cambiar entre archivos. CSS Peek es fundamental cuando se trabaja con grandes bases de código o intrincadas dependencias CSS.
+
+Características:
+
+- Definición de reglas CSS: Al hacer clic en un selector CSS en un archivo HTML, la extensión muestra la definición correspondiente de esa regla CSS en una vista incrustada, lo que te permite ver rápidamente los estilos aplicados sin tener que cambiar de archivo.
+- Ir a definición: Puedes hacer clic en la definición de la regla CSS incrustada para ir directamente a la línea correspondiente en el archivo CSS, lo que facilita la navegación y la edición.
+- Soporte multi-raíz: La extensión funciona con proyectos que tienen múltiples carpetas raíz, lo que la hace ideal para proyectos más grandes y complejos.
+- Personalización de colores: Puedes personalizar los colores de la vista incrustada para adaptarlos a tu tema preferido de Visual Studio Code.
+- Modo cortina: La extensión tiene un modo "cortina" que divide la pantalla horizontalmente, mostrando el archivo HTML en la parte superior y el archivo CSS correspondiente en la parte inferior, lo que facilita la comparación lado a lado.
+- Amplia compatibilidad: 'CSS Peek' es compatible con CSS, SCSS, LESS, Stylus y archivos CSS incrustados en archivos HTML, Vue, React, Angular y más.
