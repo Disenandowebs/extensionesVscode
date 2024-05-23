@@ -208,3 +208,7 @@ Características:
 - Escaneo de archivos: La extensión escanea automáticamente todos los archivos CSS vinculados al proyecto para proporcionar sugerencias precisas.
 - Configuración personalizable: Puedes personalizar la extensión ajustando la configuración, como excluir ciertos archivos o directorios del escaneo.
 
+### 6. CSS Peek
+
+![CSS Peek](./src/img/csspeek.png)
+
