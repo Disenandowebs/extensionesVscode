@@ -227,4 +227,14 @@ Características:
 
 ![GitLens](./src/img/gitlens.png)
 
+GitLens es una potente extensión de código abierto para Visual Studio Code que mejora tu experiencia con Git.
 
+Características:
+
+- Visualización de autoría del código: GitLens te permite visualizar rápidamente quién cambió una línea o bloque de código, cuándo y por qué. Puedes explorar la historia de un archivo y obtener información detallada sobre los cambios.
+- Anotaciones de culpa (blame): Mediante anotaciones en el código, puedes ver quién modificó cada línea. Esto es útil para entender la autoría y la evolución del código.
+- Git CodeLens: GitLens agrega información adicional a tu código, como número de confirmaciones, autores y fechas. Esto te ayuda a comprender mejor el contexto.
+Exploración de repositorios Git: La visualización de gráficos de confirmaciones te permite explorar los repositorios de Git de manera visual. Puedes navegar por las ramas, fusiones y bifurcaciones.
+- Inspección de cambios: GitLens proporciona herramientas para comparar versiones, ver diferencias y explorar ramas.
+- Integración profunda: GitLens se integra directamente en tu editor, lo que reduce el cambio de contexto y mejora la eficiencia.
+- Gratis y con funciones premium: La mayoría de las características son gratuitas para todos los repositorios. Algunas funciones avanzadas requieren una cuenta GitKraken o una suscripción Pro
