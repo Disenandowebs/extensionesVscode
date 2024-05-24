@@ -222,3 +222,9 @@ Características:
 - Personalización de colores: Puedes personalizar los colores de la vista incrustada para adaptarlos a tu tema preferido de Visual Studio Code.
 - Modo cortina: La extensión tiene un modo "cortina" que divide la pantalla horizontalmente, mostrando el archivo HTML en la parte superior y el archivo CSS correspondiente en la parte inferior, lo que facilita la comparación lado a lado.
 - Amplia compatibilidad: 'CSS Peek' es compatible con CSS, SCSS, LESS, Stylus y archivos CSS incrustados en archivos HTML, Vue, React, Angular y más.
+
+### 7. GitLens
+
+![GitLens](./src/img/gitlens.png)
+
+
