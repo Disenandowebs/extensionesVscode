@@ -237,4 +237,14 @@ Características:
 Exploración de repositorios Git: La visualización de gráficos de confirmaciones te permite explorar los repositorios de Git de manera visual. Puedes navegar por las ramas, fusiones y bifurcaciones.
 - Inspección de cambios: GitLens proporciona herramientas para comparar versiones, ver diferencias y explorar ramas.
 - Integración profunda: GitLens se integra directamente en tu editor, lo que reduce el cambio de contexto y mejora la eficiencia.
-- Gratis y con funciones premium: La mayoría de las características son gratuitas para todos los repositorios. Algunas funciones avanzadas requieren una cuenta GitKraken o una suscripción Pro
+- Gratis y con funciones premium: La mayoría de las características son gratuitas para todos los repositorios. Algunas funciones avanzadas requieren una cuenta GitKraken o una suscripción Pro.
+
+## EXTENSIONES PARA JAVASCRIPT
+
+El entorno de desarrollo es un factor crucial para la productividad y la calidad del código. En el caso de Visual Studio Code (VSCode), su flexibilidad y extensibilidad lo convierten en una herramienta poderosa para los desarrolladores. A continuación, exploraremos cinco extensiones imprescindibles que harán que tu experiencia de desarrollo con JavaScript sea más eficiente y placentera. Estas extensiones no solo te ayudarán a escribir código más limpio y eficiente, sino que también te permitirán concentrarte en lo que realmente importa: crear aplicaciones increíbles. 🚀
+
+1. ESLint
+2. JavaScript (ES6) code snippets
+3. Quokka.js
+4. npm Intellisense
+5. Import Cost
