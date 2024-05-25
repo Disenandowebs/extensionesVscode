@@ -243,8 +243,24 @@ Exploración de repositorios Git: La visualización de gráficos de confirmacion
 
 El entorno de desarrollo es un factor crucial para la productividad y la calidad del código. En el caso de Visual Studio Code (VSCode), su flexibilidad y extensibilidad lo convierten en una herramienta poderosa para los desarrolladores. A continuación, exploraremos cinco extensiones imprescindibles que harán que tu experiencia de desarrollo con JavaScript sea más eficiente y placentera. Estas extensiones no solo te ayudarán a escribir código más limpio y eficiente, sino que también te permitirán concentrarte en lo que realmente importa: crear aplicaciones increíbles. 🚀
 
-1. ESLint
-2. JavaScript (ES6) code snippets
-3. Quokka.js
-4. npm Intellisense
-5. Import Cost
+### 1. ESLint
+
+![ESLint](./src/img/eslint.png)
+
+Es un linter ampliamente adoptado que te ayuda a detectar errores, hacer cumplir las normas de programación y mejorar la calidad del código en JavaScript y TypeScript.
+
+Características:
+
+- Proporciona información instantánea y resalta los problemas de código mientras escribes.
+- Permite personalizar sus reglas en función de los requisitos específicos de tu proyecto, garantizando la coherencia en toda tu base de código.
+- Detecta errores, pero también puede corregir automáticamente ciertos problemas, como la sangría y el espaciado, ayudándote a mantener un código limpio y bien formateado.
+- Admite el uso de plugins y reglas personalizadas, lo que te permite adaptarlo a las necesidades únicas de tu proyecto.
+
+### 2. JavaScript (ES6) code snippets
+
+### 3. Quokka.js
+
+### 4. npm Intellisense
+
+### 5. Import Cost
+
