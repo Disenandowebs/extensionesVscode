@@ -258,6 +258,16 @@ Características:
 
 ### 2. JavaScript (ES6) code snippets
 
+![JavaScript (ES6) code snippets](./src/img/codesnip.png)
+
+La extensión JavaScript (ES6) code snippets ofrece una colección de prácticos fragmentos de código que pueden ahorrarte tiempo y esfuerzo al escribir código JavaScript.
+
+Características:
+- Proporciona una completa biblioteca de fragmentos de código para tareas comunes de JavaScript, facilitando la escritura de código más rápidamente.
+- Los fragmentos incluyen marcadores de posición dinámicos que te permiten rellenar rápidamente nombres de variables y otra información necesaria, mejorando la eficacia de la programación.
+- Los fragmentos de código están diseñados específicamente para la sintaxis y las características de ES6, lo que te permite aprovechar las últimas capacidades de JavaScript sin esfuerzo.
+- Te permite modificar y crear tus propios fragmentos de código, adaptándolos a tu estilo de programación y a los requisitos del proyecto.
+
 ### 3. Quokka.js
 
 ### 4. npm Intellisense
