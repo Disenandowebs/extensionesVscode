@@ -270,6 +270,18 @@ Características:
 
 ### 3. Quokka.js
 
+![Quokka.js](./src/img/quokkajs.png)
+
+Quokka.js es una extensión para Visual Studio Code que te permite prototipar rápidamente en JavaScript y TypeScript. Quokka ejecuta tu código automáticamente mientras escribes, incluso antes de guardar los cambios. Los valores de tiempo de ejecución se actualizan y se muestran junto a tu código en el editor. Puedes observar los resultados en tiempo real sin necesidad de alternar entre ventanas o contextos.
+
+Características:
+
+- Indicadores de cobertura: Quokka muestra indicadores en el margen del editor para que puedas ver rápidamente qué líneas de código están totalmente cubiertas, parcialmente cubiertas o no cubiertas en términos de cobertura de pruebas.
+- Snaps: Ejecuta fragmentos de código contextual directamente en tu editor, incluso en componentes de archivos únicos de Vue.js y archivos Svelte.
+- Logpoints: Utiliza puntos de interrupción para registrar valores sin modificar tu código.
+- Máquina del tiempo: Explora cómo se ejecuta tu código hacia adelante y hacia atrás. Puedes ver los valores de tiempo de ejecución, editar y continuar, y navegar por tu código.
+- Compartir: Quokka te permite compartir el código que ejecutas, así como su salida y grabación de la máquina del tiempo con otros.
+
 ### 4. npm Intellisense
 
 ### 5. Import Cost
