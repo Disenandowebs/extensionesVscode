@@ -298,3 +298,5 @@ Características:
 
 ### 5. Import Cost
 
+![Import Cost](./src/img/importcost.png)
+
