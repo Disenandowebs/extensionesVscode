@@ -284,5 +284,9 @@ Características:
 
 ### 4. npm Intellisense
 
+![Npm Intellisense](./src/img/npmintelli.png)
+
+
+
 ### 5. Import Cost
 
