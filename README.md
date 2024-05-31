@@ -300,3 +300,9 @@ Características:
 
 ![Import Cost](./src/img/importcost.png)
 
+La extensión Import Cost para Visual Studio Code es una herramienta valiosa para desarrolladores que desean controlar el tamaño de sus paquetes al importar módulos en su código.
+
+Características:
+
+- Funcionalidad: Import Cost muestra el tamaño de las bibliotecas de terceros que importas en tu código. Esto te permite evaluar el impacto de cada importación en el tamaño total de tu paquete.
+- Indicadores de color: Además del tamaño, la extensión también muestra si el tamaño incluye la compresión gzip. Los indicadores de color te ayudan a identificar fácilmente las importaciones más pesadas.
