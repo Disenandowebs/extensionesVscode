@@ -288,5 +288,13 @@ Características:
 
 Npm Intellisense es una extensión que autocompleta los módulos de npm en las declaraciones de importación dentro de tus archivos de código. Esto significa que cuando estás escribiendo una sentencia import en tu código, la extensión te mostrará sugerencias de los módulos disponibles en tu proyecto, basándose en los paquetes instalados en tu proyecto a través de npm.
 
+Características:
+
+- Importación de módulos: Puedes configurar cómo se importan los módulos en tus archivos. Por ejemplo, puedes elegir entre ES6 o ES5 para las declaraciones de importación.
+- Exploración de dependencias: Por defecto, npm Intellisense solo escanea las dependencias, pero puedes habilitarlo también para las devDependencies.
+- Mostrar módulos internos (locales): Puedes ver los módulos internos de Node.js, como ‘path’ o ‘fs’.
+- Búsqueda recursiva de package.json: La extensión busca el archivo package.json en el directorio más cercano en lugar de la raíz del proyecto.
+- Intellisense para subcarpetas de paquetes: Esta función está en desarrollo y es experimental1.
+
 ### 5. Import Cost
 
