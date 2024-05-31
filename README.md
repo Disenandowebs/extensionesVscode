@@ -286,7 +286,7 @@ Características:
 
 ![Npm Intellisense](./src/img/npmintelli.png)
 
-
+Npm Intellisense es una extensión que autocompleta los módulos de npm en las declaraciones de importación dentro de tus archivos de código. Esto significa que cuando estás escribiendo una sentencia import en tu código, la extensión te mostrará sugerencias de los módulos disponibles en tu proyecto, basándose en los paquetes instalados en tu proyecto a través de npm.
 
 ### 5. Import Cost
 
