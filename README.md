@@ -309,6 +309,8 @@ Características:
 
 ## EXTENSIONES PARA PYTHON
 
+Si eres un apasionado de la programación en Python y utilizas Visual Studio Code como tu entorno de desarrollo, estás de enhorabuena. VSCode ofrece una amplia variedad de extensiones que pueden mejorar tu flujo de trabajo y hacerte más productivo. Acá te recomendamos algunas de las mejores extensiones de VSCode específicas para Python. Estas extensiones te ayudarán a escribir código más limpio, depurar errores con facilidad y aumentar tu eficiencia.
+
 ### 1. Python
 
 ### 2. Pylance
