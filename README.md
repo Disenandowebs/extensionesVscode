@@ -309,8 +309,10 @@ Características:
 
 ## EXTENSIONES PARA PYTHON
 
-Python
-Pylance
+### 1. Python
+
+### 2. Pylance
+
 Jupyter
 Django
 Flask Snippets
