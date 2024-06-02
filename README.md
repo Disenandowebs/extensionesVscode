@@ -313,6 +313,8 @@ Características:
 
 ### 2. Pylance
 
-Jupyter
-Django
-Flask Snippets
+### 3. Jupyter
+
+### 4. Django
+
+### 5. Flask Snippets
