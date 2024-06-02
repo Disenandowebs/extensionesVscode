@@ -306,3 +306,11 @@ Características:
 
 - Funcionalidad: Import Cost muestra el tamaño de las bibliotecas de terceros que importas en tu código. Esto te permite evaluar el impacto de cada importación en el tamaño total de tu paquete.
 - Indicadores de color: Además del tamaño, la extensión también muestra si el tamaño incluye la compresión gzip. Los indicadores de color te ayudan a identificar fácilmente las importaciones más pesadas.
+
+## EXTENSIONES PARA PYTHON
+
+Python
+Pylance
+Jupyter
+Django
+Flask Snippets
