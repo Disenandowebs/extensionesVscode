@@ -333,7 +333,12 @@ Pylance es una extensión para Visual Studio Code. Más específicamente, Pylanc
 
 Características:
 
-
+- Información enriquecida de tipos: Pylance proporciona sugerencias precisas y detalladas mientras escribes código Python. Esto incluye información sobre los tipos de variables y funciones.
+- Autocompletado inteligente: La extensión sugiere automáticamente nombres de variables, funciones y métodos, lo que acelera la escritura de código.
+- Linting avanzado: Pylance verifica tu código en busca de errores y problemas potenciales, como variables no utilizadas o importaciones incorrectas.
+- Exploración de símbolos: Puedes navegar fácilmente por tu código, saltando entre definiciones, referencias y declaraciones.
+- Refactorización: Cambia nombres de variables, extrae funciones o reorganiza tu código con facilidad.
+- Compatibilidad con Jupyter Notebook: Si trabajas con cuadernos de Jupyter, Pylance te brinda una experiencia fluida dentro de VS Code.
 
 ### 3. Jupyter
 
