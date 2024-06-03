@@ -313,6 +313,8 @@ Si eres un apasionado de la programación en Python y utilizas Visual Studio Cod
 
 ### 1. Python
 
+![Python](./src/img/python.png)
+
 La extensión de Python para VSCode te brinda una experiencia de desarrollo productiva y eficiente, con todas las herramientas necesarias para escribir, depurar y probar tu código Python. ¡Es una excelente elección para desarrolladores Python!
 
 Características:
