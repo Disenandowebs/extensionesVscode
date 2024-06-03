@@ -317,7 +317,13 @@ La extensión de Python para VSCode te brinda una experiencia de desarrollo prod
 
 Características:
 
-
+- Autocompletado y linting: La extensión proporciona sugerencias automáticas mientras escribes código y verifica la sintaxis para evitar errores.
+- Depuración y pruebas unitarias: Puedes depurar tus programas Python directamente desde VSCode, estableciendo puntos de interrupción y examinando variables en tiempo real. Además, puedes ejecutar pruebas unitarias de manera eficiente.
+- Integración con Git: VSCode ofrece una integración fluida con Git, lo que facilita la gestión de versiones y el seguimiento de cambios en tu código.
+- Fragmentos de código personalizados: Puedes crear atajos para bloques de código comunes y reutilizarlos fácilmente.
+- Extensión Jupyter: Si trabajas con análisis de datos o ciencia de datos, la extensión Jupyter te permite ejecutar cuadernos de Jupyter directamente dentro del IDE.
+- Herramientas de edición avanzadas: VSCode admite selección de cursor múltiple, vista de esquema, búsqueda y modificación eficiente.
+- Personalización: Puedes personalizar la paleta de comandos y los atajos de teclado según tus preferencias.
 
 ### 2. Pylance
 
