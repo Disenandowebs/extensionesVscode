@@ -329,6 +329,12 @@ Características:
 
 ### 2. Pylance
 
+Pylance es una extensión para Visual Studio Code. Más específicamente, Pylance es un servidor de lenguaje Python; esto significa que ofrece mejoras en IntelliSense, resaltado de sintaxis, resolución de importación de paquetes y una gran cantidad de otras características para una experiencia de desarrollo mejorada en el lenguaje Python.
+
+Características:
+
+
+
 ### 3. Jupyter
 
 ### 4. Django
