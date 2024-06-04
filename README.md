@@ -10,6 +10,7 @@ A continuación, te presento algunas de sus características clave:
 - Control de versiones con Git: Integra funcionalidades para trabajar con repositorios Git.
 - Extensiones: VS Code es potente gracias a sus extensiones. Puedes personalizarlo y agregar funcionalidades adicionales de forma modular. Por ejemplo, puedes programar en diferentes lenguajes, cambiar temas, y conectar con otros servicios.  
 
+
 Acá te dejo una lista interesante de extensiones muy útiles de Visual Studio Code.
 
 ## EXTENSIONES DE USO GENERAL
