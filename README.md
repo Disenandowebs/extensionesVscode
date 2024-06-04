@@ -14,6 +14,7 @@ Acá te dejo una lista interesante de extensiones muy útiles de Visual Studio C
 
 ## EXTENSIONES DE USO GENERAL
 
+
 ### 1. Prettier
 
 ![Prettier](./src/img/prettier.png)
