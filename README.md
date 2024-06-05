@@ -345,6 +345,18 @@ Características:
 
 ### 3. Jupyter
 
+La extensión Jupyter para Visual Studio Code (VS Code) proporciona soporte básico para cuadernos de Jupyter en cualquier lenguaje compatible con los kernels utilizados en los cuadernos de Jupyter.
+
+Características:
+
+- Edición de Cuadernos: Puedes crear, abrir y guardar cuadernos de Jupyter directamente en VS Code. Los cuadernos combinan texto en formato Markdown con código Python ejecutable en un solo lienzo.
+- Ejecución de Celdas de Código: Puedes ejecutar celdas de código individualmente o en conjunto. Las salidas se muestran debajo de las celdas correspondientes.
+- Explorador de Variables y Datos: Puedes inspeccionar y filtrar variables utilizando el Variable Explorer y el Data Viewer.
+- Depuración de Cuadernos: Puedes depurar cuadernos de Jupyter directamente en VS Code.
+- Selección de Kernel: Puedes elegir el kernel (entorno de ejecución) para tu cuaderno. El lenguaje de las celdas se ajustará automáticamente al kernel seleccionado.
+- Workspace Trust: Para trabajar con cuadernos de Jupyter, es importante estar en un espacio de trabajo de confianza. Esto evita la ejecución automática de código malicioso. Si estás en un espacio de trabajo no confiable, no podrás ejecutar celdas ni ver salidas ricas.
+- Exportación a Archivos Python: Puedes exportar un cuaderno de Jupyter como un archivo Python (.py).
+
 ### 4. Django
 
 ### 5. Flask Snippets
