@@ -363,6 +363,16 @@ Características:
 
 ![Django](./src/img/django.png)
 
+La extensión Django para Visual Studio Code (VS Code) está diseñada específicamente para el desarrollo de aplicaciones web utilizando el framework Django.
 
+Características:
+
+- Creación y Gestión de Proyectos y Aplicaciones Django: La extensión proporciona funciones para crear y gestionar proyectos y aplicaciones Django directamente desde VS Code.
+- Completado de Código y Snippets: Ofrece completado de código para facilitar la escritura de código en proyectos Django. Además, incluye snippets específicos para Django que agilizan la creación de vistas, modelos, formularios y más.
+- Resaltado de Sintaxis: La extensión resalta la sintaxis de los archivos relacionados con Django, como los archivos de plantillas HTML, archivos de rutas (urls.py) y archivos de modelos (models.py).
+- Depuración y Ejecución de Servidor: Puedes ejecutar y depurar aplicaciones Django directamente desde VS Code. Esto te permite probar tu código y detectar errores más fácilmente.
+- Integración con Comandos de Django: La extensión permite ejecutar comandos de Django (como makemigrations, migrate, runserver, etc.) desde la terminal integrada de VS Code.
+- Explorador de Archivos y Navegación Rápida: Accede rápidamente a los archivos y carpetas relevantes de tu proyecto Django utilizando el explorador de archivos de VS Code.
+- Integración con Git: Puedes gestionar tus repositorios Git directamente desde VS Code, lo que facilita el seguimiento de cambios en tu código.
 
 ### 5. Flask Snippets
