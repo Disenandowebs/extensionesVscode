@@ -345,6 +345,8 @@ Características:
 
 ### 3. Jupyter
 
+![Jupyter](./src/img/jupyter.png)
+
 La extensión Jupyter para Visual Studio Code (VS Code) proporciona soporte básico para cuadernos de Jupyter en cualquier lenguaje compatible con los kernels utilizados en los cuadernos de Jupyter.
 
 Características:
