@@ -376,3 +376,11 @@ Características:
 - Integración con Git: Puedes gestionar tus repositorios Git directamente desde VS Code, lo que facilita el seguimiento de cambios en tu código.
 
 ### 5. Flask Snippets
+
+Si trabajas con Flask en Visual Studio Code y quieres aumentar tu productividad, te recomendamos que instales ésta extensión. Esta extensión puede ser muy útil ya que Flask Snippets simplifica el proceso de escribir código en Flask al proporcionar fragmentos de código listos para usar.
+
+Características:
+
+- Fragmentos de código predefinidos: Ofrece atajos para patrones y tareas comunes en Flask, tanto para código en Python como para HTML.
+- Facilita la escritura de código: Puedes insertar rápidamente bloques de código relacionados con Flask, como configuraciones básicas, manejo de errores, rutas, autenticación y más.
+- Soporte para Jinja: Incluye fragmentos para trabajar con Jinja, el motor de plantillas utilizado en Flask para renderizar contenido dinámico en las vistas HTML.
