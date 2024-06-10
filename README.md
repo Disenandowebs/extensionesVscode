@@ -393,6 +393,8 @@ Además de las anteriores extensiones éstas otras tienen un propósito diferent
 
 ### 1. GitHub Copilot
 
+![GitHub Copilot](./src/img/ghcopilot.png)
+
 GitHub Copilot es un innovador asistente de programación con IA desarrollado por GitHub y OpenAI. Utiliza modelos de aprendizaje automático entrenados en una gran cantidad de código para proporcionar sugerencias y complementos de código inteligentes.
 
 Características:
