@@ -392,7 +392,7 @@ Características:
 4 Extensiones Adicionales de VS Code para Mejorar la Experiencia de Desarrollo
 Además de las extensiones mencionadas anteriormente, merece la pena conocer otras extensiones de VS Code que pueden mejorar enormemente tu experiencia de desarrollo en varios lenguajes y frameworks de programación. Exploremos algunas de estas extensiones:
 
-GitHub Copilot
+### 1. GitHub Copilot
 Tabnine AI Autocomplete
 Markdown All in One
 Regex Previewer
