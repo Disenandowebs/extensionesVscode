@@ -393,6 +393,15 @@ Además de las anteriores extensiones éstas otras tienen un propósito diferent
 
 ### 1. GitHub Copilot
 
+GitHub Copilot es un innovador asistente de programación con IA desarrollado por GitHub y OpenAI. Utiliza modelos de aprendizaje automático entrenados en una gran cantidad de código para proporcionar sugerencias y complementos de código inteligentes.
+
+Características:
+
+- Analiza el contexto de tu código y proporciona completados de código altamente precisos, ahorrándote tiempo y esfuerzo.
+- Admite una amplia gama de lenguajes de programación, como JavaScript, Python, TypeScript, Go, etc.
+- Genera fragmentos de documentación para funciones, clases y métodos, ayudándote a comprender más fácilmente las API y las bibliotecas.
+- Comprende el contexto de tu código y genera sugerencias que se ajustan a tu estilo y patrones de programación.
+
 ### 2. Tabnine AI Autocomplete
 
 ### 3. Markdown All in One
