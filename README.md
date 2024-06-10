@@ -377,6 +377,8 @@ Características:
 
 ### 5. Flask Snippets
 
+![Flask Snippets](./src/img/flasksnip.png)
+
 Si trabajas con Flask en Visual Studio Code y quieres aumentar tu productividad, te recomendamos que instales ésta extensión. Esta extensión puede ser muy útil ya que Flask Snippets simplifica el proceso de escribir código en Flask al proporcionar fragmentos de código listos para usar.
 
 Características:
