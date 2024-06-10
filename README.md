@@ -387,7 +387,8 @@ Características:
 - Facilita la escritura de código: Puedes insertar rápidamente bloques de código relacionados con Flask, como configuraciones básicas, manejo de errores, rutas, autenticación y más.
 - Soporte para Jinja: Incluye fragmentos para trabajar con Jinja, el motor de plantillas utilizado en Flask para renderizar contenido dinámico en las vistas HTML.
 
-## 
+## EXTENSIONES PARA LA EXPERIENCIA DE DESARROLLO
+
 4 Extensiones Adicionales de VS Code para Mejorar la Experiencia de Desarrollo
 Además de las extensiones mencionadas anteriormente, merece la pena conocer otras extensiones de VS Code que pueden mejorar enormemente tu experiencia de desarrollo en varios lenguajes y frameworks de programación. Exploremos algunas de estas extensiones:
 
