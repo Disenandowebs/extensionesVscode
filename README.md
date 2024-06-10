@@ -389,8 +389,7 @@ Características:
 
 ## EXTENSIONES PARA LA EXPERIENCIA DE DESARROLLO
 
-4 Extensiones Adicionales de VS Code para Mejorar la Experiencia de Desarrollo
-Además de las extensiones mencionadas anteriormente, merece la pena conocer otras extensiones de VS Code que pueden mejorar enormemente tu experiencia de desarrollo en varios lenguajes y frameworks de programación. Exploremos algunas de estas extensiones:
+Además de las anteriores extensiones éstas otras tienen un propósito diferente y es que te ayudarán a mejorar la experiencia de desarrollo en varios lenguajes y frameworks de programación.
 
 ### 1. GitHub Copilot
 
