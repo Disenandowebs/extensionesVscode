@@ -395,5 +395,7 @@ Además de las extensiones mencionadas anteriormente, merece la pena conocer otr
 ### 1. GitHub Copilot
 
 ### 2. Tabnine AI Autocomplete
-Markdown All in One
+
+### 3. Markdown All in One
+
 Regex Previewer
