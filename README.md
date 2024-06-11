@@ -420,4 +420,13 @@ Características:
 
 ![]()
 
+Markdown All in One es una completa extensión para trabajar con archivos Markdown en VS Code. Simplifica la creación y edición de documentos Markdown proporcionando una amplia gama de funciones y atajos. Desde el formateo básico hasta las funcionalidades avanzadas, Markdown All in One mejora la experiencia de escritura y la productividad de los usuarios de Markdown.
+
+Características:
+
+Resaltado sintáctico y vista previa del contenido de Markdown
+Atajos para elementos y formatos comunes de Markdown
+Generación de índices para facilitar la navegación
+Atajos de teclado para editar y formatear con eficacia
+
 ### 4. Regex Previewer
