@@ -406,16 +406,15 @@ Características:
 
 ### 2. Tabnine AI Autocomplete
 
-![Tabnine AI Autocomplete]()
+![Tabnine AI Autocomplete](./src/img/tabnine.png)
 
 Tabnine AI Autocomplete es una extensión de autocompletado impulsada por IA que lleva el completado de código a un nivel completamente nuevo. Utiliza modelos de aprendizaje automático entrenados en cantidades masivas de código para proporcionar sugerencias de código muy precisas y conscientes del contexto.
 
-Tabnine-ai-autocomplete
-Extensión Tabnine AI Autocomplete
-Funciones:
-Ofrece sugerencias inteligentes basadas en el código que has escrito, ahorrándote tiempo y esfuerzo.
-Predice la siguiente línea de código basándose en tu contexto actual, reduciendo la necesidad de teclear manualmente.
-Es compatible con una amplia gama de lenguajes de programación, lo que la hace versátil para diferentes proyectos.
+Características:
+
+- Ofrece sugerencias inteligentes basadas en el código que has escrito, ahorrándote tiempo y esfuerzo.
+- Predice la siguiente línea de código basándose en tu contexto actual, reduciendo la necesidad de teclear manualmente.
+- Es compatible con una amplia gama de lenguajes de programación, lo que la hace versátil para diferentes proyectos.
 
 ### 3. Markdown All in One
 
