@@ -418,4 +418,6 @@ Características:
 
 ### 3. Markdown All in One
 
+![]()
+
 ### 4. Regex Previewer
