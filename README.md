@@ -432,3 +432,12 @@ Características:
 ### 4. Regex Previewer
 
 ![Regex Previewer](./src/img/regexprev.png)
+
+Regex Previewer es una práctica extensión para trabajar con expresiones regulares en VS Code. Te permite probar y depurar expresiones regulares en tiempo real, asegurándote de que coinciden exactamente con los patrones deseados. Con el Previsualizador de expresiones regulares, puedes ahorrar tiempo iterando y ajustando rápidamente tus expresiones regulares dentro del propio editor.
+
+Características:
+
+- Previsualización en tiempo real de las coincidencias regex en el editor
+- Resaltado de coincidencias y captura de grupos
+- Depuración interactiva y comprobación de expresiones regulares
+- Soporta múltiples opciones y tipos de expresiones regulares.
