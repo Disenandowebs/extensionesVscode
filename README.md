@@ -431,4 +431,4 @@ Atajos de teclado para editar y formatear con eficacia
 
 ### 4. Regex Previewer
 
-![Regex Previewer]()
+![Regex Previewer](./src/img/regexprev.png)
