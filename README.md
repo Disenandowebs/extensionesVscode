@@ -430,3 +430,5 @@ Generación de índices para facilitar la navegación
 Atajos de teclado para editar y formatear con eficacia
 
 ### 4. Regex Previewer
+
+![Regex Previewer]()
