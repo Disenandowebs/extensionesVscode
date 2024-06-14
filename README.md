@@ -441,4 +441,3 @@ Características:
 - Resaltado de coincidencias y captura de grupos
 - Depuración interactiva y comprobación de expresiones regulares
 - Soporta múltiples opciones y tipos de expresiones regulares.
-- 
