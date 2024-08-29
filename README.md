@@ -1,3 +1,4 @@
+![Extensiones de Visual Studio Code](/src/img/extensiones_vsc.gif)
 
 # 🚀 Las mejores Extensiones de Vscode 🚀
 
