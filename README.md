@@ -1,5 +1,10 @@
 ![Extensiones de Visual Studio Code](/src/img/extensiones_vsc.gif)
 
+![Static Badge](https://img.shields.io/badge/ESTADO-FINALIZADO-6B3D3?style=for-the-badge)
+
+![Static Badge](https://img.shields.io/badge/Lenguaje-Markdown-blue?style=flat)
+![Static Badge](https://img.shields.io/badge/Tipo%20documentaci%C3%B3n-Gu%C3%ADa_Tutorial-8A2DE2?style=flat)
+
 # 🚀 Las mejores Extensiones de Vscode 🚀
 
 Visual Studio Code (VS Code) es un editor de código fuente desarrollado por Microsoft. Es software libre y multiplataforma, disponible para Windows, GNU/Linux y macOS.
